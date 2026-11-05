@@ -15,7 +15,7 @@ window.STUDY_CONFIG = {
   studyId: 'music-pref-2026',
 
   /* Paste your Google Apps Script "Web app URL" here (ends in /exec). */
-  backendUrl: 'PASTE_YOUR_WEB_APP_URL_HERE',
+  backendUrl: 'https://script.google.com/macros/s/AKfycbwMSHaaIAvwkaoOUFZk2ZVU4OmihRBG4oTaS6-o4pZT3eTFpxjo2aTIW1yCaqoxsIVypg/exec',
 
   /* true = the whole site runs as a demo with placeholder sounds and
      NOTHING is sent to Google Sheets. You can also open any copy of the
