@@ -45,6 +45,7 @@ window.STUDY_CONFIG = {
     ],
     agree: 'I have read the instructions and I\'m using headphones (recommended).',
     startButton: 'Start the study',
+    additionalQuestions: ['What is your age?', 'Do you have traning in music? (Y/N)', 'Is AI music real music? (Y/N)'],
     progress: 'Song {n} of {total}',
     question: 'Which clip do you prefer, and by how much?',
     noPreferenceButton: 'No preference',
